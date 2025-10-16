@@ -1,2 +1,1 @@
-# LA-PID
-the code of LA-PID
+The code is currently under embargo during the peer-review process. We plan to release the full implementation, including training scripts, preprocessed data loaders, and reproducibility instructions, immediately upon final acceptance.
